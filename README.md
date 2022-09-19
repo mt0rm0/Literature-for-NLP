@@ -7,3 +7,8 @@ The texts have no copyright, but they are intended for non commercial use, and r
 
 The texts come, unless said otherwise, from the Project Gutemberg website, that has been making an extraordinary
 effort collecting, scanning and cleaning an incredibly huge amount of books, so they are available for everyone.
+
+At the moment, we have texts:
+
+In **German**: 
+- **Theodor Fonatne (1819-1898)**
