@@ -11,4 +11,4 @@ effort collecting, scanning and cleaning an incredibly huge amount of books, so 
 At the moment, we have texts:
 
 In **German**: 
-- **Theodor Fonatne (1819-1898)**
+- **Theodor Fontane (1819-1898)**
